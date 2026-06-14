@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+c2db.db
+.venv*/

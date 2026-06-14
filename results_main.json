@@ -1,0 +1,240 @@
+{
+  "sample_n": {
+    "stable": 15,
+    "unstable": 10
+  },
+  "tols": [
+    -1e-07,
+    -0.0001,
+    -0.001,
+    -0.01,
+    -0.1
+  ],
+  "rows": [
+    {
+      "uid": "1GeTe-1",
+      "gt": "Yes",
+      "natoms": 2,
+      "ndisp": 4,
+      "freq_min_nosym": 0.0018748214186998955,
+      "freq_min_sym": -1.0044924028562912e-07,
+      "sec": 1.1
+    },
+    {
+      "uid": "1AsIn-1",
+      "gt": "Yes",
+      "natoms": 2,
+      "ndisp": 4,
+      "freq_min_nosym": -0.0018514084260138149,
+      "freq_min_sym": -8.02175585538718e-08,
+      "sec": 1.1
+    },
+    {
+      "uid": "1BP-1",
+      "gt": "Yes",
+      "natoms": 2,
+      "ndisp": 2,
+      "freq_min_nosym": -5.4134276823780505,
+      "freq_min_sym": -5.413922204603165,
+      "sec": 0.3
+    },
+    {
+      "uid": "1MoS2-3",
+      "gt": "Yes",
+      "natoms": 3,
+      "ndisp": 4,
+      "freq_min_nosym": 0.010962934561799689,
+      "freq_min_sym": -6.616546573815289e-08,
+      "sec": 1.0
+    },
+    {
+      "uid": "1MoS2-1",
+      "gt": "Yes",
+      "natoms": 3,
+      "ndisp": 3,
+      "freq_min_nosym": -0.005054287070838256,
+      "freq_min_sym": -1.8247629563905413e-07,
+      "sec": 0.6
+    },
+    {
+      "uid": "1CSc2-1",
+      "gt": "Yes",
+      "natoms": 3,
+      "ndisp": 3,
+      "freq_min_nosym": 0.008354658657621685,
+      "freq_min_sym": -1.244535305387415e-07,
+      "sec": 0.6
+    },
+    {
+      "uid": "1SeTeFe2-1",
+      "gt": "Yes",
+      "natoms": 4,
+      "ndisp": 8,
+      "freq_min_nosym": -0.0058825971768167425,
+      "freq_min_sym": -1.3531394251980699e-07,
+      "sec": 1.2
+    },
+    {
+      "uid": "1STeMn2-1",
+      "gt": "Yes",
+      "natoms": 4,
+      "ndisp": 16,
+      "freq_min_nosym": -0.0033751434155095445,
+      "freq_min_sym": -6.140753269474366e-08,
+      "sec": 3.3
+    },
+    {
+      "uid": "1ORuI2-1",
+      "gt": "Yes",
+      "natoms": 4,
+      "ndisp": 4,
+      "freq_min_nosym": -11.675650009285281,
+      "freq_min_sym": -11.674559634583483,
+      "sec": 0.6
+    },
+    {
+      "uid": "1SeAs2Te2-1",
+      "gt": "Yes",
+      "natoms": 5,
+      "ndisp": 5,
+      "freq_min_nosym": 0.0022410112174835626,
+      "freq_min_sym": -1.116138288304845e-07,
+      "sec": 1.0
+    },
+    {
+      "uid": "1CTa2Te2-1",
+      "gt": "Yes",
+      "natoms": 5,
+      "ndisp": 5,
+      "freq_min_nosym": -0.007470884168296888,
+      "freq_min_sym": -1.0852239290606363e-07,
+      "sec": 2.4
+    },
+    {
+      "uid": "1CS2Zr2-1",
+      "gt": "Yes",
+      "natoms": 5,
+      "ndisp": 5,
+      "freq_min_nosym": 0.007775890851901995,
+      "freq_min_sym": -1.278881817705184e-07,
+      "sec": 2.1
+    },
+    {
+      "uid": "2MoS2-1",
+      "gt": "Yes",
+      "natoms": 6,
+      "ndisp": 12,
+      "freq_min_nosym": 0.004655641749455299,
+      "freq_min_sym": -9.218377480063043e-08,
+      "sec": 4.6
+    },
+    {
+      "uid": "2MoS2-2",
+      "gt": "Yes",
+      "natoms": 6,
+      "ndisp": 3,
+      "freq_min_nosym": -1.3240399957354811,
+      "freq_min_sym": -1.3240399957354834,
+      "sec": 1.3
+    },
+    {
+      "uid": "2CoS2-3",
+      "gt": "Yes",
+      "natoms": 6,
+      "ndisp": 9,
+      "freq_min_nosym": -3.1469118817622457,
+      "freq_min_sym": -3.1468646792466837,
+      "sec": 2.1
+    },
+    {
+      "uid": "1AlAs-1",
+      "gt": "No",
+      "natoms": 2,
+      "ndisp": 2,
+      "freq_min_nosym": -2.776324631991631,
+      "freq_min_sym": -2.7762628555814217,
+      "sec": 0.2
+    },
+    {
+      "uid": "1HgS-1",
+      "gt": "No",
+      "natoms": 2,
+      "ndisp": 4,
+      "freq_min_nosym": -0.0011000432640972777,
+      "freq_min_sym": 1.714601963406696e-08,
+      "sec": 0.8
+    },
+    {
+      "uid": "1MoS2-2",
+      "gt": "No",
+      "natoms": 3,
+      "ndisp": 3,
+      "freq_min_nosym": -0.00966112130972351,
+      "freq_min_sym": -1.5996130555405294e-07,
+      "sec": 0.5
+    },
+    {
+      "uid": "1IrI2-1",
+      "gt": "No",
+      "natoms": 3,
+      "ndisp": 3,
+      "freq_min_nosym": 0.0014192507162524384,
+      "freq_min_sym": -1.0841711599409947e-07,
+      "sec": 0.6
+    },
+    {
+      "uid": "1AuBrF2-1",
+      "gt": "No",
+      "natoms": 4,
+      "ndisp": 24,
+      "freq_min_nosym": -0.0036077185755836122,
+      "freq_min_sym": -8.124051643283518e-08,
+      "sec": 4.0
+    },
+    {
+      "uid": "1AgHBr2-1",
+      "gt": "No",
+      "natoms": 4,
+      "ndisp": 24,
+      "freq_min_nosym": -0.002573031072406625,
+      "freq_min_sym": -6.127848954130052e-08,
+      "sec": 5.0
+    },
+    {
+      "uid": "1SeI2Ti2-1",
+      "gt": "No",
+      "natoms": 5,
+      "ndisp": 5,
+      "freq_min_nosym": 0.004217074018711941,
+      "freq_min_sym": -1.0705818486939926e-07,
+      "sec": 1.5
+    },
+    {
+      "uid": "1SeBr2Sn2-1",
+      "gt": "No",
+      "natoms": 5,
+      "ndisp": 20,
+      "freq_min_nosym": -0.0026907748639396906,
+      "freq_min_sym": -3.6290777147462205e-08,
+      "sec": 2.8
+    },
+    {
+      "uid": "2CoS2-1",
+      "gt": "No",
+      "natoms": 6,
+      "ndisp": 12,
+      "freq_min_nosym": 0.003508880885072921,
+      "freq_min_sym": -1.3676934953273366e-07,
+      "sec": 3.3
+    },
+    {
+      "uid": "2AuCl2-1",
+      "gt": "No",
+      "natoms": 6,
+      "ndisp": 9,
+      "freq_min_nosym": -0.8469301247135602,
+      "freq_min_sym": -0.8469301247135583,
+      "sec": 1.7
+    }
+  ]
+}
