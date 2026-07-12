@@ -6,7 +6,8 @@ the same symmetrize_force_constants() + symmetrize_force_constants_by_space_grou
 calls, Gamma-point get_frequencies) and the MACE_MP_Medium wrapper (registry
 checkpoint, default_dtype="float32"). The phonon (freq_min) leg is ONE half of the
 benchmark's OR criterion `~(eigval_min < tol OR freq_min < tol)`; the elastic leg is
-not recomputed here (the original report established it is healthy, ~97% pass).
+not recomputed here; a separate elastic-leg check found it healthy at ~97% pass
+(see ANALYSIS.md).
 """
 from __future__ import annotations
 import os, urllib.request, warnings
